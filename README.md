@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dreroc
+- 👋 Hi, I’m @dreroc 👾
 - 👀 I’m interested in ... FlipperZero has my attention ATM.
 - 🌱 I’m currently learning ... RaspberryPi baking class (using BREADboards)
 - 💞️ I’m looking to collaborate on ... Your mom ;)
